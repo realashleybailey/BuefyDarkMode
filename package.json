@@ -1,0 +1,23 @@
+{
+  "name": "buefydarkmode",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Bailey",
+  "license": "ISC",
+  "dependencies": {
+    "buefy": "^0.9.19"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.11"
+  },
+    "keywords": [
+    "bulma",
+    "vue",
+    "vuejs",
+    "vue-bulma",
+    "components"
+  ]
+}
